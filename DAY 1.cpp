@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 { 
-printf("dgfhfxd");
+printf("AU");
 return 0;
 }
